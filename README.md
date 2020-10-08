@@ -21,10 +21,13 @@ uracil (U).
 
 A partir de uma faixa de DNA, o seu RNA correspondente é obtido substituindo cada
 nucleotídeo com o seu complementar:
+
+```
 ● G -> C
 ● C -> G
 ● T -> A
 ● A -> U
+```
 
 ## Exercicio II - Números romanos
 
